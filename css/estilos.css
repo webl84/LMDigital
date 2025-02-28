@@ -5,7 +5,7 @@ body{
 ul {
  list-style: none;
  padding: 0px; 
-    background: red;
+   /* background: red;*/
  margin: 0
 } 
 .contenedor {  
